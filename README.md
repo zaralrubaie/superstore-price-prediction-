@@ -43,7 +43,10 @@ Actual Sales  Predicted Sales
 How to run:
 git clone https://github.com/zaralrubaie/sales-prediction-pipeline.git
 
-Install dependencies:
-pip install -r requirements.txt
+Open the notebook:
+jupyter notebook superstore-sales.ipynb
 
 
+Author:
+Zahraa Rubaie
+📍 Dubai, UAE
