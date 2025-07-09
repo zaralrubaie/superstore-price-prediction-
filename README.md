@@ -41,7 +41,7 @@ Actual Sales  Predicted Sales
 5.832416         5.749583
 
 How to run:
-git clone https://github.com/zaralrubaie/sales-prediction-pipeline.git
+git clone https://github.com/zaralrubaie/superstore-price-prediction.git
 
 Open the notebook:
 jupyter notebook superstore-sales.ipynb
